@@ -67,7 +67,7 @@ Patterns (Stars/Numbers)	O(n²)	O(1)	Nested loops
 
 Clone the repository:
 
-git clone https://github.com/Batman7mani/DATA-STRUCTURE-ALGORITHM/new/main/Basic%20problems
+git clone https://github.com/Batman7mani/DATA-STRUCTURE-ALGORITHM/tree/main/Basic%20problems
 
 
 Open in IntelliJ IDEA / VS Code / Eclipse
