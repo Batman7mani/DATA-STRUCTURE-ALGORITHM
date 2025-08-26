@@ -1,4 +1,4 @@
-#📚** Data Structures & Algorithms (DSA) Practice**
+**📚 Data Structures & Algorithms (DSA) Practice**
 
 Welcome to my DSA Practice Repository! This repository contains Java-based solutions to various DSA problems from multiple sources such as Striver’s SDE Sheet, Love Babbar 450 DSA Sheet, LeetCode, and GeeksforGeeks. The goal of this repository is to practice problem-solving, optimize algorithms, and strengthen understanding of data structures.
 
